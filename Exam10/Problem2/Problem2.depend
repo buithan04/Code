@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685326990 source:c:\users\asus\desktop\hoctap\ctdl&gt\thuchanh\exam10\problem2\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	<set>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1680278575 source:c:\users\asus\desktop\hoctap\ctdl&gt\thuchanh\exam2\test1\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	<map>
+	"Quicksort.h"
+
+1680278533 c:\users\asus\desktop\hoctap\ctdl&gt\thuchanh\exam2\test1\quicksort.h
+	<iostream>
+

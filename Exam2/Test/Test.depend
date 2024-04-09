@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681488616 source:c:\users\asus\desktop\hoctap\ctdl&gt\thuchanh\exam2\test\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+
